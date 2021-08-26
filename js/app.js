@@ -19,7 +19,6 @@
 */
 const sections = Array.from(document.querySelectorAll('section'));
 const menu = document.getElementById('navbar__list');
-const topBtn = document.getElementById('top');
 /**
  * End Global Variables
  * Start Helper Functions
