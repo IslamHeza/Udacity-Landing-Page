@@ -88,6 +88,5 @@ menu.addEventListener("click", (event) => {
     document
       .getElementById(`${event.target.dataset.nav}`)
       .scrollIntoView({inline: "nearest" , block: "end"});
-      console.log('scroll');
   });
   
